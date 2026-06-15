@@ -88,6 +88,14 @@
 4. 推送到远程分支 (`git push origin feature/AmazingFeature`)
 5. 打开 Pull Request
 
+### 依赖
+
+- [jsmediatags](https://github.com/aadsm/jsmediatags)  
+  用于读取音频文件元数据。  
+  **许可证**: MIT  
+  **版权**: (c) 2008 Jacob Seidelin, (c) 2009 Opera Software ASA, (c) 2010 Joshua Kifer, (c) 2015 António Afonso
+
+
 ### 📄 许可证
 
 该项目为开源项目。
@@ -176,6 +184,14 @@ Contributions via Issues or Pull Requests are welcome to improve this project:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+## Dependencies
+
+- [jsmediatags](https://github.com/aadsm/jsmediatags)  
+  Reads metadata from audio files.  
+  **License**: MIT  
+  **Copyright**: (c) 2008 Jacob Seidelin, (c) 2009 Opera Software ASA, (c) 2010 Joshua Kifer, (c) 2015 António Afonso
 
 ### 📄 License
 
